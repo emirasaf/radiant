@@ -1,0 +1,20 @@
+.pr {
+  font-weight: 700;
+  font-size: 24px;
+  width: 80%;
+  margin-left: 4rem;
+}
+
+.section {
+  all: unset;
+  margin-top: 4rem;
+  margin-bottom: 4rem;
+  display: flex;
+  align-items: center;
+  justify-content: center !important;
+  width: 60vw;
+}
+
+.photo {
+  margin-right: 2rem;
+}

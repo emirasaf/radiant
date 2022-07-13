@@ -1,0 +1,18 @@
+.h2 {
+  font-size: 2.5rem;
+  margin-bottom: 24px !important;
+}
+
+.second_p {
+  width: 80%;
+}
+
+.col {
+  margin-top: 4rem;
+  margin-bottom: 4rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  width: 95vw;
+}

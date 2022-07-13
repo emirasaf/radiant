@@ -1,0 +1,38 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  width: 100vw;
+  overflow: hidden !important;
+  height: 100vh;
+  color: #1e1e2a;
+}
+
+.h1 {
+  font-size: 56px;
+  margin-left: 2rem;
+}
+
+.ellipse {
+  filter: blur(110px);
+  overflow: hidden !important;
+  bottom: 375px;
+  left: 1050px;
+  position: absolute;
+  width: 350px;
+  height: 350px;
+  z-index: 4;
+  border-radius: 50% !important;
+  background-color: rgba(82, 78, 183, 0.3) !important;
+}
+
+.explore {
+  padding: 8px 16px;
+  background: rgba(82, 78, 183, 0.2);
+  color: #1e1e2a;
+  font-size: 22px;
+  margin-left: 2rem;
+  font-weight: 600;
+  border-radius: 10px;
+}

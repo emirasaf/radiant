@@ -1,0 +1,32 @@
+.h3 {
+  color: #6cdf36;
+}
+
+.p {
+  width: 90%;
+}
+
+.row {
+  margin-top: 1rem;
+  display: flex;
+  width: 90vw;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.link {
+  padding: 8px 16px;
+  background: rgb(211, 245, 195);
+  color: #000000;
+  font-size: 22px;
+  font-weight: 600;
+  margin-top: 2rem;
+  border-radius: 10px;
+}
+
+.column {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  flex-direction: column !important;
+}
